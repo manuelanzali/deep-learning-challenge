@@ -2,6 +2,9 @@
 
 Overview of the analysis: Explain the purpose of this analysis.
 
+. The purpose of this analysis is to create the best binary classifier that would be able to reach the highest accuracy in selecting the applicants who will be successful if funded by Alphabet Soup. 
+
+
 Results: Using bulleted lists and images to support your answers, address the following questions:
 
 Data Preprocessing
